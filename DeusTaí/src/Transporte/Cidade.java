@@ -17,6 +17,13 @@ public class Cidade {
 		b1.bracadeira = 1;
 		
 		b1.locomover();
+		
+		c1.ligar();
+		c1.ligar();
+		
+		
+		
+		
 
 	}
 }

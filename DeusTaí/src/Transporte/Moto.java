@@ -7,4 +7,8 @@ public class Moto extends Motorizado{
 	}
 	
 	public String cortavento;
+	
+	public void Dargrau() {
+		System.out.println("Deu um grau!");
+	}
 }

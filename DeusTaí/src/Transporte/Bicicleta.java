@@ -5,4 +5,12 @@ public class Bicicleta extends Nmotorizado{
 		super(nome,modelo,preco);
 	}
 	int bracadeira;
+	
+	public void babalu() {
+		System.out.println("deu um babalu!");
+	}
+	
+	public void pedalar() {
+		System.out.println("Pedalou!");
+	}
 }

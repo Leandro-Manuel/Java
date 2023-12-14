@@ -13,10 +13,24 @@ public class Veiculos {
 		this.modelo = modelo;
 		this.preco = preco;
 	}
-	//metodo abaixo
+	
+	//método abaixo
+	
 	public void locomover() {
 		System.out.println("Movimentou-se");
-		
 	}
+	
+	public void frear() {
+		System.out.println("Freiou");
+	}
+	
+	public void buzinar () {
+		System.out.println("Buzinou");
+	}
+	
+	public void desviar () {
+		System.out.println("Desviou-se");
+	}
+	
 }
 

@@ -7,4 +7,6 @@ public class Nmotorizado extends Veiculos {
 	}
 	
 	public String tracaoManual;
+	
+	
 }
